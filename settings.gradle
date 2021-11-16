@@ -1,0 +1,2 @@
+rootProject.name = "Profile Management"
+include ':app'

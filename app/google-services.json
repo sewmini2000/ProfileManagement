@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "26784539853",
+    "firebase_url": "https://estilo-74456-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "estilo-74456",
+    "storage_bucket": "estilo-74456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26784539853:android:b967de1164d8f150db7584",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26784539853-drs040bquue2b4caiqq7h95d67fdjge5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "240b780e01658a33f508687fc5929aa90ba3643e"
+          }
+        },
+        {
+          "client_id": "26784539853-2fpaf6ooa86t97hic5ivqqfbnkj9ufgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr4rukGY3mHswRfLN9h-I0BlI7dmvDdHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26784539853-2fpaf6ooa86t97hic5ivqqfbnkj9ufgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26784539853:android:efc964c17673a463db7584",
+        "android_client_info": {
+          "package_name": "com.example.profilemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26784539853-2fpaf6ooa86t97hic5ivqqfbnkj9ufgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr4rukGY3mHswRfLN9h-I0BlI7dmvDdHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26784539853-2fpaf6ooa86t97hic5ivqqfbnkj9ufgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
